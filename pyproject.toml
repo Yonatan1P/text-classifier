@@ -8,6 +8,8 @@ authors = ["Yonatan Palagashvili <yonimotek@gmail.com>"]
 python = "^3.9"
 sklearn = "^0.0"
 pandas = "^1.2.0"
+jupyter = "^1.0.0"
+Keras = "^2.4.3"
 
 [tool.poetry.dev-dependencies]
 
